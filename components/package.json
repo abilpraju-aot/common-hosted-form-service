@@ -18,7 +18,7 @@
       "email": "jsherman@parcsystems.ca"
     }
   ],
-  "private": true,
+  "private": false,
   "main": "lib/index.js",
   "module": "node",
   "scripts": {
