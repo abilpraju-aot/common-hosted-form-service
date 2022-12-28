@@ -32,7 +32,7 @@ export default class Component extends (ParentComponent as any) {
     static get builderInfo() {
         return {
             title: DISPLAY,
-            group: 'simple',
+            group: 'custom',
             icon: 'list-alt',
             weight: 54,
             documentation: Constants.DEFAULT_HELP_LINK,

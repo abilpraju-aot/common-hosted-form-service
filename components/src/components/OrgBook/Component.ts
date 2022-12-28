@@ -120,7 +120,7 @@ export default class Component extends (SelectComponent as any) {
     static get builderInfo() {
         return {
             title: 'Business Name Search',
-            group: 'advanced',
+            group: 'custom',
             icon: 'database',
             weight: 70,
             documentation: Constants.DEFAULT_HELP_LINK,

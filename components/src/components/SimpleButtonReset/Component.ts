@@ -31,7 +31,7 @@ export default class Component extends (ParentComponent as any) {
     static get builderInfo() {
         return {
             title: DISPLAY,
-            group: 'simple',
+            group: 'custom',
             icon: 'undo',
             weight: 31,
             documentation: Constants.DEFAULT_HELP_LINK,

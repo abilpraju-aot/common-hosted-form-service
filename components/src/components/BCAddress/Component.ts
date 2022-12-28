@@ -40,7 +40,7 @@ export default class Component extends (ParentComponent as any) {
     static get builderInfo() {
         return {
             title: DISPLAY,
-            group: 'advanced',
+            group: 'custom',
             icon: 'address-book',
             weight: 90,
             documentation: Constants.DEFAULT_HELP_LINK,

@@ -32,7 +32,7 @@ export default class Component extends (ParentComponent as any) {
     static get builderInfo() {
         return {
             title: DISPLAY,
-            group: 'simple',
+            group: 'custom',
             icon: 'columns',
             weight: 50,
             documentation: Constants.DEFAULT_HELP_LINK,

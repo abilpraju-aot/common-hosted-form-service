@@ -25,7 +25,7 @@ export default class Component extends (ParentComponent as any) {
     static get builderInfo() {
         return {
             title: DISPLAY,
-            group: 'simple',
+            group: 'custom',
             icon: 'plus-square',
             weight: 5,
             documentation: Constants.DEFAULT_HELP_LINK,
